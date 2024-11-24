@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the culmination of my learning in the **"Data Visualization Using Python"** course, where I have applied various data analysis and visualization techniques to gain insights and develop predictive models. The course provided a comprehensive understanding of data preprocessing, statistical analysis, and model development, which I used to estimate used car prices, visualize the data, and build prediction models.
+This project is the culmination of my learning in the **"Data Visualization Using Python"** course by IBM issued by Cognitive Class, where I have applied various data analysis and visualization techniques to gain insights and develop predictive models. The course provided a comprehensive understanding of data preprocessing, statistical analysis, and model development, which I used to estimate used car prices, visualize the data, and build prediction models.
 
 ## Key Learnings and Techniques Applied
 
